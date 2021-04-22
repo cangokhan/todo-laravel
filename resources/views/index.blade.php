@@ -48,7 +48,6 @@
                       </td>
                       <td>
                         <a href="{{route('show',$todo->id)}}" class="btn btn-sm btn-info"> View </a>
-                        <a href="#" class="btn btn-sm btn-danger"> Delete </a>
                       </td>
                     </tr>
                   @endforeach
